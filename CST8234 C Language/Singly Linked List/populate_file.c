@@ -2,7 +2,7 @@
  FILE      :  populate_file.c
  PROGRAM   :  Populate File
  AUTHOR    :  Nhi Banh
- STUDENT_NUMBER: 040 932 192
+ STUDENT_NUMBER: XXX XXX XXX
 *****************************************************************************/
 /***********************************************
 * Include C library headers.
