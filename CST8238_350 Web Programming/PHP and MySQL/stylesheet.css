@@ -1,0 +1,52 @@
+body
+{
+	margin: 0px 0px;
+	padding: 0px;
+	text-align:center;
+	background-color: #FBFCFC;
+}
+
+#header{
+	background-color: #28B463;
+	height: 180px;
+  width: 100%;
+	margin: 0px auto;
+	padding: 25px;
+ 	border: 1px solid black;
+}
+#menu{
+	font-size: 18pt;
+	height: 65px;
+	float: right;
+}
+#content
+{
+	width: 800px;
+	min-height: 500px;
+	margin: 0px auto;
+	padding: 25px;
+	text-align: left;
+}
+
+#footer
+{
+	height: 150px;
+  width: 100%;
+	background-color: #ABEBC6;
+	margin: 0px auto;
+	padding: 25px;
+	border: 1px solid black;
+	text-align: left;
+}
+input{
+  padding:5px;
+  margin:5px 0;
+}
+label{
+	font-weight: normal;
+	font-size: 20px;
+}
+.container {
+  background-color: #f3d9c4;
+  padding-bottom: 15px;
+}
