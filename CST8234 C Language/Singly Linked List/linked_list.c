@@ -2,7 +2,7 @@
  FILE      :  linked_list.c
  PROGRAM   :  Single Linked List
  AUTHOR    :  Nhi Banh
- STUDENT_NUMBER: 040 932 192
+ STUDENT_NUMBER: XXX XXX XXX
 *****************************************************************************/
 /***********************************************
 * Include C library headers.

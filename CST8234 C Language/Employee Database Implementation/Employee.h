@@ -2,7 +2,7 @@
  FILE      :  Employee.h
  PROGRAM   :  Assignment 2, Employee database header file
  AUTHOR    :  Nhi Banh
- STUDENT_NUMBER: 040 932 192
+ STUDENT_NUMBER: XXX XXX XXX
 *****************************************************************************/
 /***********************************************
 * Declare constants

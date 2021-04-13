@@ -2,7 +2,7 @@
  FILE      :  studentreg.h
  PROGRAM   :  Student Registration System
  AUTHOR    :  Nhi Banh
- STUDENT_NUMBER: 040 932 192
+ STUDENT_NUMBER: XXX XXX XXX
 *****************************************************************************/
 /***********************************************
 * Declare constants

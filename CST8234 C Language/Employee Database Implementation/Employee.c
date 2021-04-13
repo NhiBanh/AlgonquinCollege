@@ -2,7 +2,7 @@
  FILE      :  Employee.c
  PROGRAM   :  Assignment 2, Employee database implementation using linked list
  AUTHOR    :  Nhi Banh
- STUDENT_NUMBER: 040 932 192
+ STUDENT_NUMBER: XXX XXX XXX
 *****************************************************************************/
 /***********************************************
 * Include C library headers.
