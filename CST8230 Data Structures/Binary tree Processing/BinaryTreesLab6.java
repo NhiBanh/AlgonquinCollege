@@ -3,7 +3,7 @@ package Lab6;
 /**
  * This class contains a program using the Binary Trees
  * @author Nhi Banh.
- * Student Number:  040 932 192.
+ * Student Number:  xxx xxx xxx
  * Course: CST8130 - Data Structures
  * CET-CS-Level 3
  * Professor James Mwangi PhD.
@@ -13,14 +13,14 @@ package Lab6;
  * PROBLEM DISCRIPTION: 
  * Start with the Binary Tree Example from class (you can find this in the slides). 
  * Add a recursive method to the BinaryTree class which will calculate and return the height of the tree. 
- * In your ìmainî, add a choice to display of the height of the tree.  
+ * In your ‚Äúmain‚Äù, add a choice to display of the height of the tree.  
  * During your demo, you will need to show your code.
  * 
  * HINTS:
- * Consider in general at any nodeÖ.
+ * Consider in general at any node‚Ä¶.
  * calculate the height of the left subtree, 
- * and the height of the right subtree ñ then return the larger of the two heights (+1 to include the current node)
- * Consider how to end the recursion ñ and what the bottom nodes of the treeís height is.
+ * and the height of the right subtree ‚Äì then return the larger of the two heights (+1 to include the current node)
+ * Consider how to end the recursion ‚Äì and what the bottom nodes of the tree‚Äôs height is.
  * Add meaningful comments to your code.
  * */
 import java.util.*;
