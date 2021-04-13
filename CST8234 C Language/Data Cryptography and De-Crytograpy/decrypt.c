@@ -2,7 +2,7 @@
  * File: crypto.c
  * Purpose: To print the decrypted integer
  * Author: Nhi Banh
- * Student Number: 040 932 192
+ * Student Number: XXX XXX XXX
 **/
 
 #include<stdio.h>
