@@ -2,7 +2,7 @@ package Lab3;
 /**
  * This class contains a program to search for an integer in an array using recursive and non-recursive binary search.
  * @author Nhi Banh.
- * Student Number:  040 932 192.
+ * Student Number:  xxx xxx xxx
  * Course: CST8130 - Data Structures
  * CET-CS-Level 3
  * Professor James Mwangi PhD.
