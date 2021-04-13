@@ -1,0 +1,40 @@
+.pink {
+	background-color: pink;
+}
+
+.listing {
+	padding: 4px;
+
+}
+
+#genreListing {
+	padding: 4px;
+
+}
+
+#artistListing {
+	padding: 4px;
+}
+
+#global {
+	background-color: gold;
+}
+
+#searchHeader {
+	text-align: right;
+}
+#loginHeader {
+	text-align: right;
+}
+
+.painting-listing a{
+  vertical-align: top;
+}
+
+body {
+background-color: tan;
+}
+
+.contentWhite {
+background-color: white;
+}
