@@ -4,12 +4,11 @@ import java.time.format.DateTimeParseException;
 import java.util.*;
 
 
-// TODO: Auto-generated Javadoc
 /**
  * Assignment 3 - Inventory Management with Sorting.
  *
  * @author Nhi Banh.
- * Student Number:  040 932 192.
+ * Student Number:  xxx xxx xxx
  * Course: CST8130 - Data Structures
  * CET-CS-Level 3
  * Professor James Mwangi PhD.
